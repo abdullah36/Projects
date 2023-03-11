@@ -1,5 +1,6 @@
 """Developed by AIS
    Basic text Editor using file handling
+   Language : Python
 """
 
 import pyautogui
